@@ -46,3 +46,6 @@ Data Set
 
 Google Colab 
 [https://colab.research.google.com/drive/1BVU-DsnR8biC8RhUBw-ZMWF53eBP8wDr?usp=sharing](url)
+
+Gravação da apresentação
+[https://youtu.be/NB9w9PU1kak](url)
